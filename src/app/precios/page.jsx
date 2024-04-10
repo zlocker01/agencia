@@ -1,4 +1,4 @@
-import Precios from "../components/Precios";
+import Precios from "../components/precios";
 
 const Portafolio = () => {
   return (
