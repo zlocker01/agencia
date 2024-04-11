@@ -5,7 +5,7 @@ const Precios = () => {
         <div class="divide-y divide-gray-200 rounded-2xl border border-gray-200 shadow-sm">
           <div class="p-6 sm:px-8">
             <h2 class="text-lg font-medium text-gray-900">
-              Basico
+              Starter
               <span class="sr-only">Plan</span>
             </h2>
 
@@ -26,13 +26,13 @@ const Precios = () => {
               class="mt-4 block rounded border border-indigo-600 bg-indigo-600 px-12 py-3 text-center text-sm font-medium text-white hover:bg-transparent hover:text-indigo-600 focus:outline-none focus:ring active:text-indigo-500 sm:mt-6"
               href="#"
             >
-              Contactanos
+              Get Started
             </a>
           </div>
 
           <div class="p-6 sm:px-8">
             <p class="text-lg font-medium text-gray-900 sm:text-xl">
-              Que incluye:
+              What's included:
             </p>
 
             <ul class="mt-2 space-y-2 sm:mt-4">
@@ -177,13 +177,13 @@ const Precios = () => {
               class="mt-4 block rounded border border-indigo-600 bg-indigo-600 px-12 py-3 text-center text-sm font-medium text-white hover:bg-transparent hover:text-indigo-600 focus:outline-none focus:ring active:text-indigo-500 sm:mt-6"
               href="#"
             >
-              Contactanos
+              Get Started
             </a>
           </div>
 
           <div class="p-6 sm:px-8">
             <p class="text-lg font-medium text-gray-900 sm:text-xl">
-              Que Inlcuye:
+              What's included:
             </p>
 
             <ul class="mt-2 space-y-2 sm:mt-4">
@@ -307,7 +307,7 @@ const Precios = () => {
         <div class="divide-y divide-gray-200 rounded-2xl border border-gray-200 shadow-sm">
           <div class="p-6 sm:px-8">
             <h2 class="text-lg font-medium text-gray-900">
-              Personalizado
+              Enterprise
               <span class="sr-only">Plan</span>
             </h2>
 
@@ -328,13 +328,13 @@ const Precios = () => {
               class="mt-4 block rounded border border-indigo-600 bg-indigo-600 px-12 py-3 text-center text-sm font-medium text-white hover:bg-transparent hover:text-indigo-600 focus:outline-none focus:ring active:text-indigo-500 sm:mt-6"
               href="#"
             >
-              Contactanos
+              Get Started
             </a>
           </div>
 
           <div class="p-6 sm:px-8">
             <p class="text-lg font-medium text-gray-900 sm:text-xl">
-              Que incluye:
+              What's included:
             </p>
 
             <ul class="mt-2 space-y-2 sm:mt-4">
@@ -456,7 +456,7 @@ const Precios = () => {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
 export default Precios
